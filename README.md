@@ -1,12 +1,16 @@
-##### **Name:** Harikesh c
+##### **Name:** Abdullah Hasmani
+
 ##### **Company:** CODTECH IT SOLUTIONS
-##### **ID:** CT08DS9875
+
+##### **ID:** CT4METK
+
 ##### **Domain:** Machine Learning
-##### **Duration:** November 30th 2024 to December 30th 2024
+
+##### **Duration:** December 20th, 2024 to April 20th, 2025.
+
 ##### **Mentor:** MR.Neela Santhosh Kumar
+
 ##### **Task:** TASK4: BMI TRACKER APPLICATION
-
-
 
 
 # 🏋️‍♂️ BMI Tracker App 🏋️‍♀️
